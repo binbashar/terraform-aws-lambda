@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [8.8.0](https://github.com/terraform-aws-modules/terraform-aws-lambda/compare/v8.7.0...v8.8.0) (2026-04-23)
+
+### Features
+
+* Add support for managed instances ([#745](https://github.com/terraform-aws-modules/terraform-aws-lambda/issues/745)) ([8a9941b](https://github.com/terraform-aws-modules/terraform-aws-lambda/commit/8a9941b1b9c1bc986d1c88249981397b95d31df1))
+
 ## [8.7.0](https://github.com/terraform-aws-modules/terraform-aws-lambda/compare/v8.6.0...v8.7.0) (2026-02-18)
 
 ### Features
